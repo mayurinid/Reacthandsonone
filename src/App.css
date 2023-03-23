@@ -1,0 +1,75 @@
+
+.App {
+ 
+  text-align: center;
+  text-shadow: 5px 2px 2px aqua;
+  background: linear-gradient(to bottom, rgb(191, 191, 239) 20%,rgb(225, 175, 183) 80%); 
+  width: 100%;
+  height: 630px;
+
+ }
+.btn12{
+  display: flex;
+  justify-content: space-evenly;
+}
+.btn{
+  padding: 2rem 3rem;
+  background-color:rgb(107, 184, 184);
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top:90px;
+  left:750px;
+}
+.btn:hover{
+  padding: 2rem 3rem;
+  background-color: aqua;
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top:90px;
+  left:750px;
+}
+.btn1{
+  padding: 2rem 3rem;
+  background-color: rgb(107, 184, 184);
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top:90px;
+  left:200px;
+}
+.btn1:hover{
+  padding: 2rem 3rem;
+  background-color: aqua;
+  border: 1px solid black;
+  border-radius: 30px;
+  position: absolute;
+  top:90px;
+  left:200px;
+}
+.CC{
+  width: 400px;
+  height: 250px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 15%;
+  background-color: aqua;
+  padding-top: 35px;
+  position: absolute;
+  top:250px;
+  left:700px;
+}
+.FC{
+  width: 400px;
+  height: 250px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 15%;
+  background-color: aqua;
+  padding-top: 35px;
+  position: absolute;
+top:250px;
+left:150px;
+}
+
